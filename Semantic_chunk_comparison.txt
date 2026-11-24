@@ -1,0 +1,16 @@
+Semantic Chunks Count : 32
+
+FIRST RECURSIVE CHUNK
+--------------------------------------------------
+
+
+FIRST SEMANTIC CHUNK
+--------------------------------------------------
+4 
+ 
+Issue 1: Need for the Board Manual 
+Issue 2: Organization Essentials 
+Issue 3: Board Structure and Processes 
+Issue 4: Board – ED Relations 
+Issue 5: Executive Parameters 
+Issue 6: Review of Board Manual
